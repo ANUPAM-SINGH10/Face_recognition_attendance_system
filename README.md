@@ -1,11 +1,13 @@
-Chapter - 1: Introduction
+**Chapter - 1: Introduction**
 
 In the fast-paced realm of technological advancements, organizations are increasingly seeking efficient and secure alternatives to traditional attendance tracking systems. The Face Recognition Attendance System stands out as a revolutionary solution, leveraging cutting-edge technology to redefine how attendance is managed. Conventional methods, relying on manual processes like sign-in sheets or card-swiping, are not only time-intensive but also susceptible to errors such as buddy punching and lost identification cards. The Face Recognition Attendance System addresses these challenges by harnessing facial recognition algorithms and artificial intelligence.
 
 Facial recognition technology has progressed significantly, allowing systems to accurately identify individuals based on distinct facial features. Deep learning models enable precise identification in dynamic environments with varying lighting conditions. The emphasis on efficiency, accuracy, and security in attendance management positions this system as a leading-edge solution. Its benefits extend beyond technical capabilities, offering real-time tracking, reduced administrative workload, and enhanced user convenience.
 
 This introduction sets the stage for a detailed exploration of the Face Recognition Attendance System, covering its features, technological foundations, and transformative impact on organizational processes. As we delve into this innovative technology, it becomes clear that it not only modernizes attendance tracking but also signifies a shift towards smarter, more secure workplace management systems, aligning with the evolving needs of organizations. 
-Chapter - 2: Project Aim
+
+
+**Chapter - 2: Project Aim**
 
 The primary aim of the Face Recognition Attendance System is to modernize and optimize the traditional methods of attendance tracking within organizations. This advanced system harnesses facial recognition technology to achieve several key objectives:
 
@@ -38,7 +40,9 @@ Compliance with Regulations:
 Adhere to privacy and ethical guidelines, complying with data protection regulations and prioritizing the responsible and ethical use of facial recognition technology.
 
 In summary, the Face Recognition Attendance System aims to revolutionize attendance tracking by leveraging advanced technology to enhance accuracy, efficiency, security, and user experience within organizational contexts. 
-Chapter - 3: Problem Formulation
+
+
+**Chapter - 3: Problem Formulation**
 
 Problem statement:
 
@@ -77,7 +81,7 @@ Keeping abreast of evolving legal and regulatory frameworks related to facial re
 This problem statement identifies critical issues that organizations and developers must navigate when implementing a Face Recognition Attendance System, emphasizing the need for comprehensive solutions that address technical, ethical, and regulatory considerations.
 
  
-Chapter - 4. Literature Survey-
+**Chapter - 4. Literature Survey-**
 
 S NO	RESEARCH PAPER	CONCLUSION OF RESEARCH PAPER	OUR ADDITION
 
@@ -116,7 +120,8 @@ Issued on
 03, Mar-2023	The paper presents screenshots of the system's user interface, showcasing data collection, image capture, and attendance marking. Algorithms like Haar Cascade and LBPH are employed for face detection and recognition. The proposed system effectively recognizes faces and records attendance in real-time, offering a viable alternative to manual methods.	Advanced Face Recognition Algorithms:
 Explore and implement state-of-the-art face recognition algorithms. Keep abreast of advancements in the field, such as deep learning-based models like FaceNet,   Insightface, which may offer improved accuracy
  
-Chapter -5: Methodology
+
+**Chapter -5: Methodology**
 
 Libraries used in this project.
 1.	Numpy
@@ -365,10 +370,12 @@ Outlook of web app
 •	PREDICTION
 ![image](https://github.com/user-attachments/assets/03c4a973-0d20-4e76-8e18-d076cc05463b)
 
-5.	Conclusion
+
+**5.	Conclusion**
+
 The proposed system is designed to provide an automated attendance system for lectures, sections, and laboratories, allowing lecturers or teaching assistants to easily record student attendance. By utilizing face detection and recognition algorithms, this system saves time and effort, especially in classes with a large number of students. This automated system can improve an institution's goodwill by reducing drawbacks in the traditional manual system. Through thorough testing of the face detection and recognition algorithms, student attendance is marked by recognizing their face and storing the data in an attendance sheet. The system was developed from requirements to a complete system, including evaluation and testing, and achieved its objectives to the satisfaction of the client. Although some challenges were encountered during implementation, they were addressed and resolved. Strategies for future work and improvements to the system are discussed in this section
 
-6.	References
+**6.	References**
 
 Kaggle.com/face_recognition_attendance_system/
 
